@@ -15,7 +15,7 @@ License URI: license.txt
 
 Tags: custom-menu, sticky-post, microformats, rtl-language-support, translation-ready, full-width-template, post-formats, theme-options, custom-post-type, custom-sidebars, lightbox-plus-ready, nivo-slider-ready
 
-  Copyright (C) 2013  Star Verte LLC
+	Copyright (C) 2013  Star Verte LLC
 	
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
